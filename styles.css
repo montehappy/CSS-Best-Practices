@@ -122,3 +122,13 @@
     max-width: 600px;
     margin: 0 auto;
 }
+
+.container__footer {
+    margin-top: 10px;
+    border: 4px solid black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+}
